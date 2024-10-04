@@ -1,0 +1,11 @@
+Model Information:
+* title:	Silver Dragonkin (Mir4)
+* source:	https://sketchfab.com/3d-models/silver-dragonkin-mir4-b34b2dfdbf3b4d469852715a8fd32f88
+* author:	kingkaiju (https://sketchfab.com/jaarmbrister)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Silver Dragonkin (Mir4)" (https://sketchfab.com/3d-models/silver-dragonkin-mir4-b34b2dfdbf3b4d469852715a8fd32f88) by kingkaiju (https://sketchfab.com/jaarmbrister) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
